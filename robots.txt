@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eretrogi.github.io/sitemap
+Sitemap: https://eretrogi.github.io/app/sitemap
+Sitemap: https://eretrogi.github.io/assets/sitemap
+Sitemap: https://eretrogi.github.io/css/sitemap
+Sitemap: https://eretrogi.github.io/includes/sitemap
+Sitemap: https://eretrogi.github.io/item/sitemap
+Sitemap: https://eretrogi.github.io/src/sitemap
